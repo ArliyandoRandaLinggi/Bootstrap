@@ -1,0 +1,15 @@
+.navbar {
+    padding: 15px;
+}
+
+.content {
+    background: #ddd;
+    height: 450px;
+}
+
+.header {
+    background: pink;
+}
+.footer {
+    background: pink;
+}
